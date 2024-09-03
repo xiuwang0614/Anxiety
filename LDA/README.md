@@ -27,6 +27,12 @@ The file contains the demograph information of all participants, and the squence
 * computer Bootstrap Zscores.m in matlab
 * plot Factors Thresholded_wrapper.m in matlab
 
+#### Step 4: calculation of alteration probility of each patient in ROI pairs
+* D.mlx was used to calculate the _D_, i.e., the alteration probility of each patient in ROI pairs.
+* two_sample_t_test.mlx was used to compare the group difference on the level of ROIs between HC and PBD patients.
+* corr.R was used to analysis the correlation between _D_ and _t_.
+
+
 **utilities** contained some useful files, which need to be attached.
 
 **polarlda-c-dist** was used to re-compile the source code of polarLDA by the following commands on terminal
