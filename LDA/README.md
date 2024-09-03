@@ -29,7 +29,9 @@ The file contains the demograph information of all participants, and the squence
 
 **utilities** contained some useful files, which need to be attached.
 
-**polarlda-c-dist** was used to re-compile the source code of polarLDA by the following commands on terminal:
+**polarlda-c-dist** was used to re-compile the source code of polarLDA by the following commands on terminal
+
+(i.e., polarLDA file in the step 2 folder):
 ```
 # copy to your own code directory to keep the common space clean
 cp -aR $/polarlda-c-dist <your_code_dir>
