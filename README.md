@@ -4,6 +4,7 @@ Shared And Diagnose-Sensitive Dysfunction Across Different Anxiety Disorders: A 
 Paper currently in preparation.
 ## Other useful references
 `very useful git and reference!!` 
+
 [Reconciling Dimensional and Categorical Models of Autism Heterogeneity: a Brain Connectomics & Behavioral Study](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/disorder_subtypes/Tang2020_ASDFactors) 
 
 **Ref 01** [Bayesian model reveals latent atrophy factors with dissociable cognitive trajectories in Alzheimer's disease](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/disorder_subtypes/Zhang2016_ADFactors) 
