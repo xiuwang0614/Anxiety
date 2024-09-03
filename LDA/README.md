@@ -20,6 +20,6 @@ The file contains the demograph information of all participants, and the squence
 
 #### Step 2: Estimating latent factors
 * the process of estimation should be executed by shell script in the lunix system.
-* The visualziation of Factors was processed by R studio.
+* The visualziation of Factors was processed by R studio and Python.
 
 #### Step 3: Mediation analyses 
