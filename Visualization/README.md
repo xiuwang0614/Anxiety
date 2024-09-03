@@ -12,4 +12,6 @@
 
 `mediation.R` shows the process of mediation in R.
 
+`fig1.py` and `figure1b.py` were the code for SI figure 1.
+
 ``
