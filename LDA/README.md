@@ -4,7 +4,7 @@ And this folder recorded the steps taken in our study.
 
 Using ```addpath(genpath('/path/to/LDA/lib/'))``` to attach relevant files in matlab.
 
-**Before analyses, you need to get the FC of HC and PBD participants.**
+**Before analyses, you need to get the FC matrix of HC and PBD participants.**
 
 `FC matrix.mat`: 
 The format of file should be N * N * M double in matlab, N is the number of FC nodes, and M is the number of HC gourp or PBD patients. 
