@@ -1,5 +1,6 @@
 # Anxiety
-Shared And Diagnose-Sensitive Dysfunction Across Different Anxiety Disorders: A Transdiagnostic Study
+Mapping Diagnose-sensitive and Shared Dysfunction in Anxiety Disorders: A Transdiagnostic Study
+
 # title
 Paper currently in preparation.
 ## Other useful references
