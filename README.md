@@ -13,3 +13,6 @@ Bayesian model reveals latent atrophy factors with dissociable cognitive traject
 [**Ref 02**](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202400929) Mapping Brain Synergy Dysfunction in Schizophrenia: Understanding Individual Differences and Underlying Molecular Mechanisms
 
 [**Ref 03**](https://www.nature.com/articles/s41386-022-01290-9) Shared and disease-sensitive dysfunction across bipolar and unipolar disorder during depressive episodes: a transdiagnostic study
+
+#### LDA folder shows the process of Bayesian modelling approach based on the Latent Dirichlet Allocation
+#### Visualization folder shows the code of figures.
