@@ -26,3 +26,5 @@ The file contains the demograph information of all participants, and the squence
 * Bootstrapped Est wrappr.sh in lunix
 * computer Bootstrap Zscores.m in matlab
 * plot Factors Thresholded_wrapper.m in matlab
+
+`external_packages and utilities contained some useful files, which need to be attached.`
