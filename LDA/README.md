@@ -20,6 +20,9 @@ The file contains the demograph information of all participants, and the squence
 
 #### Step 2: Estimating latent factors
 * the process of estimation should be executed by shell script in the lunix system.
-* The visualziation of Factors was processed by R studio and Python.
-
-#### Step 3: Mediation analyses 
+  
+#### Step 3: Bootstrapping
+* get Bootstrapped Samples.m in matlab
+* Bootstrapped Est wrappr.sh in lunix
+* computer Bootstrap Zscores.m in matlab
+* plot Factors Thresholded_wrapper.m in matlab
