@@ -27,4 +27,12 @@ The file contains the demograph information of all participants, and the squence
 * computer Bootstrap Zscores.m in matlab
 * plot Factors Thresholded_wrapper.m in matlab
 
-`external_packages and utilities contained some useful files, which need to be attached.`
+**utilities** contained some useful files, which need to be attached.
+
+**polarlda-c-dist** was used to re-compile the source code of polarLDA by the following commands on terminal:
+```
+# copy to your own code directory to keep the common space clean
+cp -aR $/polarlda-c-dist <your_code_dir>
+# compile
+cd <your_code_dir>/polarlda-c-dist/code; make
+```
