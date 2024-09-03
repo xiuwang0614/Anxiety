@@ -1,5 +1,4 @@
 # Anxiety
-Mapping Diagnose-sensitive and Shared Dysfunction in Anxiety Disorders: A Transdiagnostic Study
 
 # title
 Paper currently in preparation.
