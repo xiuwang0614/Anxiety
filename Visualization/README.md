@@ -8,7 +8,7 @@
 
 `corr.R` shows the code for figure 3 (C).
 
-`fcode.py` and `WPcode.py` shows the code for figure 3 (D).
+`fcode.py` and `WPcode.py` show the code for figure 3 (D).
 
 `mediation.R` shows the process of mediation in R.
 
